@@ -1,0 +1,45 @@
+{
+  "marks": [
+    {
+      "end_time": 14.199,
+      "step_num": 1,
+      "end_frame": 425,
+      "is_mistake": false,
+      "start_time": 0,
+      "start_frame": 0
+    },
+    {
+      "end_time": 25.08,
+      "step_num": 2,
+      "end_frame": 752,
+      "is_mistake": false,
+      "start_time": 14.199,
+      "start_frame": 425
+    },
+    {
+      "end_time": 37.768,
+      "step_num": 3,
+      "end_frame": 1133,
+      "is_mistake": false,
+      "start_time": 25.08,
+      "start_frame": 752
+    },
+    {
+      "end_time": 46.334,
+      "step_num": 4,
+      "end_frame": 1390,
+      "is_mistake": false,
+      "start_time": 37.768,
+      "start_frame": 1133
+    },
+    {
+      "end_time": 62.576,
+      "step_num": 5,
+      "end_frame": 1877,
+      "is_mistake": false,
+      "start_time": 46.334,
+      "start_frame": 1390
+    }
+  ],
+  "errors": null
+}

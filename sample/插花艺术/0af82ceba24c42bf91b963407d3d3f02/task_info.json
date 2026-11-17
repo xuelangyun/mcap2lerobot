@@ -1,0 +1,91 @@
+{
+    "episode_id": "13802749",
+    "episode_id_u32": "0af82ceba24c42bf91b963407d3d3f02",
+    "task_id": 78960,
+    "task_name": "0902_插花艺术",
+    "english_task_name": "0902_FlowerArrangement",
+    "sn_code": "R001GBDDAAAE0793",
+    "sn_name": "",
+    "scene_name": "Household(家居)",
+    "sub_scene_name": "Clean And Tidy(清洁整理)",
+    "init_scene_text": "机器人将花插入花瓶，完成花瓶插花",
+    "english_init_scene_text": "",
+    "data_gen_mode": "GALBOT G1",
+    "episode_status": "",
+    "label_info": {
+        "action_config": [
+            {
+                "skill": "",
+                "action_text": "右手从台面抓取花到台面上方",
+                "english_action_text": "Grasp flower from TaiMian to on the table with RightHand",
+                "start_frame": 0,
+                "end_frame": 208,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右手从台面上方放下花到花瓶",
+                "english_action_text": "Lower flower from on the table to vase with RightHand",
+                "start_frame": 208,
+                "end_frame": 411,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右手从台面抓取花到台面上方",
+                "english_action_text": "Grasp flower from TaiMian to on the table with RightHand",
+                "start_frame": 411,
+                "end_frame": 618,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右手从台面上方放下花到花瓶",
+                "english_action_text": "Lower flower from on the table to vase with RightHand",
+                "start_frame": 618,
+                "end_frame": 872,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右手从台面抓取花到台面上方",
+                "english_action_text": "Grasp flower from TaiMian to on the table with RightHand",
+                "start_frame": 872,
+                "end_frame": 1080,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右手从台面上方放下花到花瓶",
+                "english_action_text": "Lower flower from on the table to vase with RightHand",
+                "start_frame": 1080,
+                "end_frame": 1262,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右手从台面抓取花到台面上方",
+                "english_action_text": "Grasp flower from TaiMian to on the table with RightHand",
+                "start_frame": 1262,
+                "end_frame": 1509,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右手从台面上方放下花到花瓶",
+                "english_action_text": "Lower flower from on the table to vase with RightHand",
+                "start_frame": 1509,
+                "end_frame": 1884,
+                "timestamp_utc": "2026-09-03T13:27:57",
+                "is_mistake": false
+            }
+        ]
+    }
+}

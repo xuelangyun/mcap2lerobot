@@ -1,0 +1,73 @@
+{
+    "episode_id": "13780315",
+    "episode_id_u32": "0a26a9827b2f41f392cbf4e571b3e507",
+    "task_id": 78954,
+    "task_name": "0902_电线分类",
+    "english_task_name": "0831_TypesOfWires",
+    "sn_code": "R001GBDDAAAE0809",
+    "sn_name": "",
+    "scene_name": "Household(家居)",
+    "sub_scene_name": "Clean And Tidy(清洁整理)",
+    "init_scene_text": "机器人在桌面前，完成不同类型的线缆分类，转入既定的不同盒子",
+    "english_init_scene_text": "",
+    "data_gen_mode": "GALBOT G1",
+    "episode_status": "",
+    "label_info": {
+        "action_config": [
+            {
+                "skill": "",
+                "action_text": "右臂抓起桌面上的电源线",
+                "english_action_text": "YouBiZhuaQiZhuoMianShangDeDianYuanXian",
+                "start_frame": 0,
+                "end_frame": 150,
+                "timestamp_utc": "2026-09-03T09:56:18",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右臂将电源线放置在分类箱指定位置",
+                "english_action_text": "YouBiJiangDianYuanXianFangZhiZaiFenLeiXiangZhiDingWeiZhi",
+                "start_frame": 150,
+                "end_frame": 600,
+                "timestamp_utc": "2026-09-03T09:56:18",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右臂抓起桌面上的网线",
+                "english_action_text": "YouBiZhuaQiZhuoMianShangDeWangXian",
+                "start_frame": 600,
+                "end_frame": 886,
+                "timestamp_utc": "2026-09-03T09:56:18",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "右臂将网线放置在分类箱指定位置",
+                "english_action_text": "YouBiJiangWangXianFangZhiZaiFenLeiXiangZhiDingWeiZhi",
+                "start_frame": 886,
+                "end_frame": 1300,
+                "timestamp_utc": "2026-09-03T09:56:18",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "左臂抓起桌面上的HDMI线",
+                "english_action_text": "ZuoBiZhuaQiZhuoMianShangDeHDMIXian",
+                "start_frame": 1300,
+                "end_frame": 1700,
+                "timestamp_utc": "2026-09-03T09:56:18",
+                "is_mistake": false
+            },
+            {
+                "skill": "",
+                "action_text": "左臂将HDMI线放置在分类箱指定位置",
+                "english_action_text": "ZuoBiJiangHDMIXianFangZhiZaiFenLeiXiangZhiDingWeiZhi",
+                "start_frame": 1700,
+                "end_frame": 1954,
+                "timestamp_utc": "2026-09-03T09:56:18",
+                "is_mistake": false
+            }
+        ]
+    }
+}
